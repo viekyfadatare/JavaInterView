@@ -16,7 +16,7 @@ public class ExceptionHandling {
 		
 		
 		System.out.println("Start");
-		;
+		
 
 		try {
 			System.out.println(a / b);

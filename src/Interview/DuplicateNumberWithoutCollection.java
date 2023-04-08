@@ -5,7 +5,7 @@ public class DuplicateNumberWithoutCollection {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		int a [] = {1,4,9,5,7,6,2,4,6,8,1,3,4,4,1,1,6,6};
+		int a [] = {1,4,9,5,7,6,2,4,6,8,1,3,4,4,4,1,1,6,6};
 		
 		
 		for (int i = 0; i < a.length; i++) {

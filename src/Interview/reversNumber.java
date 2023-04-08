@@ -14,7 +14,7 @@ public class reversNumber {
 			num = num/10;
 		}
 
-		System.out.println(num);
+		System.out.println(temp);
 	}
 
 }
